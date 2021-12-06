@@ -1,3 +1,5 @@
-# Stream Template Repository
+# GI01SUMO-RII11-02-PHSENE042-recovered_host-phsen_abcdef_imodem_control_recovered
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Control Data<br>
+Instrument Group Code: PHSEN<br>
