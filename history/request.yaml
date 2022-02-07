@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: GI01SUMO-RII11-02-PHSENE042-recovered_host-phsen_abcdef_imodem_control_recovered
-last_request: '2022-01-21T17:34:51.881429Z'
+last_request: '2022-02-07T18:55:08.993357Z'
 response: https://raw.githubusercontent.com/ooi-data/GI01SUMO-RII11-02-PHSENE042-recovered_host-phsen_abcdef_imodem_control_recovered/main/history/response.json
 status: discontinued
